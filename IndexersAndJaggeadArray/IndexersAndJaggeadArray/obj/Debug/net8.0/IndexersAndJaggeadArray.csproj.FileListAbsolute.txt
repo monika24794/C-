@@ -1,0 +1,14 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\bin\Debug\net8.0\IndexersAndJaggeadArray.exe
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\bin\Debug\net8.0\IndexersAndJaggeadArray.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\bin\Debug\net8.0\IndexersAndJaggeadArray.runtimeconfig.json
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\bin\Debug\net8.0\IndexersAndJaggeadArray.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\bin\Debug\net8.0\IndexersAndJaggeadArray.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\refint\IndexersAndJaggeadArray.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\IndexersAndJaggeadArray.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\IndexersAndJaggeadArray\IndexersAndJaggeadArray\obj\Debug\net8.0\ref\IndexersAndJaggeadArray.dll
