@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\bin\Debug\net6.0\Custumerliberary.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\bin\Debug\net6.0\Custumerliberary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\bin\Debug\net6.0\Custumerliberary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\refint\Custumerliberary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\Custumerliberary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\CustomerPRoject\Custumerliberary\obj\Debug\net6.0\ref\Custumerliberary.dll
