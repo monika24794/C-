@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerilizationDemo", "SerilizationDemo\SerilizationDemo.csproj", "{C27FF309-A2D3-414A-8A45-A12896BBBDCF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB99526F-82B6-4B6C-938D-EFC36D3DE495} = {BB99526F-82B6-4B6C-938D-EFC36D3DE495}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerLibrary", "CustomerLibrary\CustomerLibrary.csproj", "{BB99526F-82B6-4B6C-938D-EFC36D3DE495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27FF309-A2D3-414A-8A45-A12896BBBDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27FF309-A2D3-414A-8A45-A12896BBBDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27FF309-A2D3-414A-8A45-A12896BBBDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27FF309-A2D3-414A-8A45-A12896BBBDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB99526F-82B6-4B6C-938D-EFC36D3DE495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB99526F-82B6-4B6C-938D-EFC36D3DE495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB99526F-82B6-4B6C-938D-EFC36D3DE495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB99526F-82B6-4B6C-938D-EFC36D3DE495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79BA35AC-CC9D-4A3F-B5D3-1EA1CE2A9795}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\SerilizationDemo\CustomerLibrary\obj\Debug\net5.0\CustomerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\SerilizationDemo\CustomerLibrary\obj\Debug\net5.0\CustomerLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\SerilizationDemo\CustomerLibrary\obj\Debug\net5.0\CustomerLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\SerilizationDemo\CustomerLibrary\obj\Debug\net5.0\CustomerLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SerilizationDemo/1.0.0": {
+        "dependencies": {
+          "CustomerLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SerilizationDemo.dll": {}
+        }
+      },
+      "CustomerLibrary/1.0.0": {
+        "runtime": {
+          "CustomerLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SerilizationDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
