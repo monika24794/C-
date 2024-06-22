@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\bin\Debug\net6.0\ExceptionProjectLibrary.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\bin\Debug\net6.0\ExceptionProjectLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\bin\Debug\net6.0\ExceptionProjectLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\refint\ExceptionProjectLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ExceptionProjectLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\Exceptionhandling\ExceptionProjectLibrary\obj\Debug\net6.0\ref\ExceptionProjectLibrary.dll

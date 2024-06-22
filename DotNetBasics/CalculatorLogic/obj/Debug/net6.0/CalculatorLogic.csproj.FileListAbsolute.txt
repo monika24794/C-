@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\bin\Debug\net6.0\CalculatorLogic.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\bin\Debug\net6.0\CalculatorLogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\bin\Debug\net6.0\CalculatorLogic.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\refint\CalculatorLogic.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\CalculatorLogic.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DotNetBasics\CalculatorLogic\obj\Debug\net6.0\ref\CalculatorLogic.dll
