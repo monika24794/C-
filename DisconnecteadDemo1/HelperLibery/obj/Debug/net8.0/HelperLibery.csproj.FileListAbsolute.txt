@@ -1,0 +1,17 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\HelperLibery.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\HelperLibery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\HelperLibery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\BuinessLogic Library.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\DataAccessLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\DataAccessLibrery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\bin\Debug\net8.0\BuinessLogic Library.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.csproj.CopyComplete
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\refint\HelperLibery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\HelperLibery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\HelperLibery\obj\Debug\net8.0\ref\HelperLibery.dll
