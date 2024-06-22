@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\bin\Debug\net8.0\BuinessLogic Library.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\bin\Debug\net8.0\BuinessLogic Library.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\bin\Debug\net8.0\BuinessLogic Library.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\refint\BuinessLogic Library.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\BuinessLogic Library.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\BuinessLogic Library\obj\Debug\net8.0\ref\BuinessLogic Library.dll

@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\bin\Debug\net8.0\DataAccessLibrery.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\bin\Debug\net8.0\DataAccessLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\bin\Debug\net8.0\DataAccessLibrery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\bin\Debug\net8.0\BuinessLogic Library.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\bin\Debug\net8.0\BuinessLogic Library.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.csproj.CopyComplete
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\refint\DataAccessLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\DataAccessLibrery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\DisconnecteadDemo\DataAccessLibrery\obj\Debug\net8.0\ref\DataAccessLibrery.dll
