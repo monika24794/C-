@@ -1,0 +1,11 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\refint\ShoppingBussinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ShoppingBussinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingBussinessLogicLibrary\obj\Debug\net8.0\ref\ShoppingBussinessLogicLibrary.dll

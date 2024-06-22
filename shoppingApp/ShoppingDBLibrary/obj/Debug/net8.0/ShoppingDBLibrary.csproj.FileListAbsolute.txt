@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\bin\Debug\net8.0\ShoppingDBLibrary.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\bin\Debug\net8.0\ShoppingDBLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\bin\Debug\net8.0\ShoppingDBLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.csproj.CopyComplete
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\refint\ShoppingDBLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ShoppingDBLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\ShoppingDBLibrary\obj\Debug\net8.0\ref\ShoppingDBLibrary.dll
