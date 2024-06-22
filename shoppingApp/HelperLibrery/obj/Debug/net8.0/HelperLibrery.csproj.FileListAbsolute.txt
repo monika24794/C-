@@ -1,0 +1,17 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\HelperLibrery.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\HelperLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\HelperLibrery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\ShoppingDBLibrary.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\ShoppingDBLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\bin\Debug\net8.0\ShoppingBussinessLogicLibrary.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.csproj.CopyComplete
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\refint\HelperLibrery.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\HelperLibrery.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\shoppingApp\HelperLibrery\obj\Debug\net8.0\ref\HelperLibrery.dll
