@@ -1,0 +1,14 @@
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\bin\Debug\net8.0\AsyncAndAwaitDemo.exe
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\bin\Debug\net8.0\AsyncAndAwaitDemo.deps.json
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\bin\Debug\net8.0\AsyncAndAwaitDemo.runtimeconfig.json
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\bin\Debug\net8.0\AsyncAndAwaitDemo.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\bin\Debug\net8.0\AsyncAndAwaitDemo.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\refint\AsyncAndAwaitDemo.dll
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.pdb
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\AsyncAndAwaitDemo.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\MonikaDotnet\AsyncAndAwaitDemo\AsyncAndAwaitDemo\obj\Debug\net8.0\ref\AsyncAndAwaitDemo.dll
